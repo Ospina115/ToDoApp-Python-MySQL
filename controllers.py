@@ -1,0 +1,1 @@
+# Módulo para manejar la lógica de la aplicación

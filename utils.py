@@ -1,0 +1,1 @@
+# Módulo para funciones utilitarias (por ejemplo, importar/exportar JSON)

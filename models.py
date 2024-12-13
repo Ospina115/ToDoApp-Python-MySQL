@@ -1,0 +1,1 @@
+# Módulo para definir los modelos de datos (SQLAlchemy)
